@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream
+hello ji
+iam haha
+=======
+or ji ky hal chal
+>>>>>>> Stashed changes
